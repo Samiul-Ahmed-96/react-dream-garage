@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Ducati V4S",
+    "engine": "V4",
+    "tspeed": 322,
+    "price": 25200,
+    "power": 211,
+    "img": "https://www.thebikemarket.co.uk/media/3467338/MY20_DUCATI_PANIGALE%20V4_02_UC101537_High.jpg?width=640"
+  },
+  {
+    "name": "BMW S1000RR",
+    "engine": "Inline Four VVT",
+    "tspeed": 298,
+    "price": 15590,
+    "power": 204,
+    "img": "https://www.thebikemarket.co.uk/media/5354698/P90427257-highRes.jpg?width=640"
+  },
+  {
+    "name": "Honda Fireblade SP",
+    "engine": "Inline Four",
+    "tspeed": 300,
+    "price": 23500,
+    "power": 215,
+    "img": "https://www.thebikemarket.co.uk/media/3635449/2020%20main.jpg?width=640"
+  },
+  {
+    "name": "Bugatti La Voiture",
+    "engine": "8.0 L W16",
+    "tspeed": 261,
+    "price": 19000000,
+    "power": 1500,
+    "img": "https://www.beautifullife.info/wp-content/uploads/2020/03/04/most_expensive_car.jpg"
+  },
+  {
+    "name": "SWEPTAIL BY ROLLS ROYCE",
+    "engine": "6.75L V12",
+    "tspeed": 150,
+    "price": 13000000,
+    "power": 453,
+    "img": "https://www.beautifullife.info/wp-content/uploads/2020/03/04/most_expensive_car_ever.jpg"
+  },
+  {
+    "name": "Bugatti Centodieci",
+    "engine": "8.0L W16 (Gas)",
+    "tspeed": 236,
+    "price": 9000000,
+    "power": 1600,
+    "img": "https://www.beautifullife.info/wp-content/uploads/2020/03/04/bugatti_centodieci.jpg"
+  },
+  {
+    "name": "PAGANI HUAYRA IMOLA",
+    "engine": "6.0L V12",
+    "tspeed": 238,
+    "price": 5400000,
+    "power": 827,
+    "img": "https://www.beautifullife.info/wp-content/uploads/2020/03/04/pagani_huayra_imola_side.jpg"
+  },
+  {
+    "name": "Lamborghini Veneno",
+    "engine": "6.5L L539 V12",
+    "tspeed": 221,
+    "price": 4500000,
+    "power": 740,
+    "img": "https://www.beautifullife.info/wp-content/uploads/2020/03/04/most_expensive_lamborghini_in_the_world.jpg"
+  },
+  {
+    "name": "Kawasaki Ninja H2",
+    "engine": "Inline Four",
+    "tspeed": 298,
+    "price": 26000,
+    "power": 197,
+    "img": "https://www.thebikemarket.co.uk/media/1396846/2018-ninja-h2-carbon-02.jpg?width=640"
+  },
+  {
+    "name": "Suzuki GSX-R1000R",
+    "engine": "Inline Four VVT",
+    "tspeed": 298,
+    "price": 17000,
+    "power": 199,
+    "img": "https://www.thebikemarket.co.uk/media/1903478/2018%20main%20blue%20race%20rep.jpg?width=640"
+  }
+]
