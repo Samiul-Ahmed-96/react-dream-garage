@@ -1,0 +1,15 @@
+.vehicle-details img {
+  width: 300px;
+  height: 200px;
+  margin: 35px;
+  border-radius: 20px;
+}
+.image-container {
+  background: #2b2b2b;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.vehicle-details {
+  background: #fba651;
+  border-radius: 20px;
+}

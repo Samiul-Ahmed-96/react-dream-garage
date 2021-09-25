@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Vehicle from '../../Vehicle/Vehicle';
 import './Garage.css';
 
 const Garage = () => {
@@ -10,11 +11,20 @@ const Garage = () => {
         .then(data => setVehicles(data))
     },[])
     return (
-        <div>
+        <div className="main-container">
+
+            <div className="cart">
+            
+            </div>
+
+            <div className="garage">
             {
-                vehicles.map(vehicle => console.log(vehicle))
+                vehicles.map(vehicle => <Vehicle key={vehicle.name} vehicle={vehicle}></Vehicle>)
             }
+            </div>
+        
         </div>
+
     );
 };
 

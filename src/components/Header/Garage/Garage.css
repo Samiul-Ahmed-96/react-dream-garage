@@ -1,0 +1,10 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin-top: 50px;
+}
+.garage {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 30px;
+}
