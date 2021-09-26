@@ -2,6 +2,10 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   margin-top: 50px;
+  width: 85%;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 .garage {
   display: grid;

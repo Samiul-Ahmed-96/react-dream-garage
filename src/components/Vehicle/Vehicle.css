@@ -13,3 +13,21 @@
   background: #fba651;
   border-radius: 20px;
 }
+.vehicle-details button {
+  background: #2b2b2b;
+  color: #fff;
+  padding: 10px 20px;
+  margin: 10px 0px;
+  border: 2px solid #2b2b2b;
+  border-radius: 10px;
+  font-size: 15px;
+  transition: 0.3s;
+  font-family: "Fira Code", monospace;
+}
+.vehicle-details button svg {
+  margin-right: 10px;
+}
+.vehicle-details button:hover {
+  background-color: #fba651;
+  color: #2b2b2b;
+}

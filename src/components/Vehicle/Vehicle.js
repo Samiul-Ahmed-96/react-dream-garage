@@ -1,5 +1,8 @@
+import { faPlusSquare } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import './Vehicle.css';
+
 
 const Vehicle = (props) => {
     const {name,engine,tspeed,price,power,img} = props.vehicle;
@@ -12,7 +15,9 @@ const Vehicle = (props) => {
             <h4>Power: Bhp {power} </h4>           
             <h5>Top Speed: {tspeed}</h5>
             <h1>Price : ${price}</h1>
-            <button onClick={()=>addToGarage(props.vehicle)}>Add To Garage</button>       
+            <button onClick={()=>addToGarage(props.vehicle)}>
+            <FontAwesomeIcon icon={faPlusSquare}></FontAwesomeIcon>
+            Add To Garage</button>       
         </div>
     );
 };

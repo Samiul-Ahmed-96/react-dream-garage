@@ -13,8 +13,8 @@ const Header = () => {
         </div>
 
         <div className="header-details">
-            <h2>Make An Awesome garage for you</h2>
-            <p>Total Amount : $15000000</p>
+            <h2>A people without a positive history is like a vehicle without an engine</h2>
+            <h3>Total Amount : $15000000</h3>
         </div>
         </>
         
