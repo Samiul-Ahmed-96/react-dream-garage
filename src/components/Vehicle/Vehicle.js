@@ -5,7 +5,9 @@ import './Vehicle.css';
 
 
 const Vehicle = (props) => {
+    //get the value using destructuring
     const {name,engine,tspeed,price,power,img} = props.vehicle;
+    //Get the function
     const addToGarage = props.handleAddToGarage;
     return (
         <div className="vehicle-details">
